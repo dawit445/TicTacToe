@@ -1,5 +1,5 @@
 
-# Tic Tac Toe with OpenGL
+## Tic Tac Toe with OpenGL
 
  Overview
 A Python implementation of Tic Tac Toe featuring OpenGL graphics with two gameplay modes:
