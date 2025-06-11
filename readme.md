@@ -1,4 +1,3 @@
-Here's a refined version of your README with improved clarity, structure, and technical accuracy while maintaining a professional tone:
 
 # Tic Tac Toe with OpenGL
 
